@@ -1,0 +1,169 @@
+2017-03-25 22:22:56,156 0    [Thread-2] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 12 is coming to the front door Sat Mar 25 22:22:56 CDT 2017
+2017-03-25 22:22:56,163 7    [Thread-2] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 12 is in line at the door.
+2017-03-25 22:23:04,145 7989 [Thread-3] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 13 is coming to the front door Sat Mar 25 22:23:04 CDT 2017
+2017-03-25 22:23:04,146 7990 [Thread-3] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 13 is in line at the door.
+2017-03-25 22:23:07,489 11333 [Thread-0] INFO  edu.matc.Halloween.Riley  - Riley started..
+2017-03-25 22:23:07,489 11333 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:23:07,489 11333 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:23:07,489 11333 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater Thread 12
+2017-03-25 22:23:08,507 12351 [Thread-4] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 14 is coming to the front door Sat Mar 25 22:23:08 CDT 2017
+2017-03-25 22:23:08,508 12352 [Thread-4] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 14 is in line at the door.
+2017-03-25 22:23:10,490 14334 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater Thread 12 in 3 seconds.
+2017-03-25 22:23:10,490 14334 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:23:10,491 14335 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:23:10,491 14335 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater Thread 13
+2017-03-25 22:23:13,492 17336 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater Thread 13 in 3 seconds.
+2017-03-25 22:23:13,493 17337 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:23:13,493 17337 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:23:13,494 17338 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater Thread 14
+2017-03-25 22:23:14,495 18339 [Thread-5] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 15 is coming to the front door Sat Mar 25 22:23:14 CDT 2017
+2017-03-25 22:23:14,500 18344 [Thread-5] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 15 is in line at the door.
+2017-03-25 22:23:16,495 20339 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater Thread 14 in 3 seconds.
+2017-03-25 22:23:16,495 20339 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:23:16,495 20339 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:23:16,495 20339 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater Thread 15
+2017-03-25 22:23:19,496 23340 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater Thread 15 in 3 seconds.
+2017-03-25 22:23:19,496 23340 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:23:19,496 23340 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:23:23,496 27340 [Thread-6] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 16 is coming to the front door Sat Mar 25 22:23:23 CDT 2017
+2017-03-25 22:23:23,497 27341 [Thread-6] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 16 is in line at the door.
+2017-03-25 22:23:23,498 27342 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:23:23,498 27342 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater Thread 16
+2017-03-25 22:23:26,499 30343 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater Thread 16 in 3 seconds.
+2017-03-25 22:23:26,499 30343 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:23:26,499 30343 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:23:31,497 35341 [Thread-7] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 17 is coming to the front door Sat Mar 25 22:23:31 CDT 2017
+2017-03-25 22:23:31,498 35342 [Thread-7] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 17 is in line at the door.
+2017-03-25 22:23:31,498 35342 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:23:31,498 35342 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater Thread 17
+2017-03-25 22:23:34,498 38342 [Thread-8] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 18 is coming to the front door Sat Mar 25 22:23:34 CDT 2017
+2017-03-25 22:23:34,499 38343 [Thread-8] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 18 is in line at the door.
+2017-03-25 22:23:34,499 38343 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater Thread 17 in 3 seconds.
+2017-03-25 22:23:34,500 38344 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:23:34,500 38344 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:23:34,500 38344 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater Thread 18
+2017-03-25 22:23:37,501 41345 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater Thread 18 in 3 seconds.
+2017-03-25 22:23:37,501 41345 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:23:37,502 41346 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:23:41,866 45710 [Thread-9] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 19 is coming to the front door Sat Mar 25 22:23:41 CDT 2017
+2017-03-25 22:23:41,867 45711 [Thread-9] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 19 is in line at the door.
+2017-03-25 22:23:41,871 45715 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:23:41,871 45715 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater Thread 19
+2017-03-25 22:23:44,873 48717 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater Thread 19 in 3 seconds.
+2017-03-25 22:23:44,873 48717 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:23:44,873 48717 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:23:49,872 53716 [Thread-10] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 20 is coming to the front door Sat Mar 25 22:23:49 CDT 2017
+2017-03-25 22:23:49,873 53717 [Thread-10] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater Thread 20 is in line at the door.
+2017-03-25 22:23:49,873 53717 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:23:49,874 53718 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater Thread 20
+2017-03-25 22:23:52,875 56719 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater Thread 20 in 3 seconds.
+2017-03-25 22:23:52,875 56719 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:23:52,875 56719 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:25:31,600 0    [Thread-2] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 12 is coming to the front door Sat Mar 25 22:25:31 CDT 2017
+2017-03-25 22:25:31,617 17   [Thread-2] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 12 is in line at the door.
+2017-03-25 22:25:39,594 7994 [Thread-3] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 13 is coming to the front door Sat Mar 25 22:25:39 CDT 2017
+2017-03-25 22:25:39,595 7995 [Thread-3] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 13 is in line at the door.
+2017-03-25 22:25:41,587 9987 [Thread-0] INFO  edu.matc.Halloween.Riley  - Riley started..
+2017-03-25 22:25:41,588 9988 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:25:41,588 9988 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:25:41,588 9988 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 12
+2017-03-25 22:25:44,590 12990 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 12 in 3 seconds.
+2017-03-25 22:25:44,590 12990 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:25:44,590 12990 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:25:44,591 12991 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 13
+2017-03-25 22:25:47,591 15991 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 13 in 3 seconds.
+2017-03-25 22:25:47,592 15992 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:25:47,592 15992 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:25:48,599 16999 [Thread-4] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 14 is coming to the front door Sat Mar 25 22:25:48 CDT 2017
+2017-03-25 22:25:48,600 17000 [Thread-4] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 14 is in line at the door.
+2017-03-25 22:25:48,601 17001 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:25:48,601 17001 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 14
+2017-03-25 22:25:51,602 20002 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 14 in 3 seconds.
+2017-03-25 22:25:51,603 20003 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:25:51,603 20003 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:25:53,598 21998 [Thread-5] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 15 is coming to the front door Sat Mar 25 22:25:53 CDT 2017
+2017-03-25 22:25:53,600 22000 [Thread-5] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 15 is in line at the door.
+2017-03-25 22:25:53,601 22001 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:25:53,601 22001 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 15
+2017-03-25 22:25:56,068 24468 [Thread-6] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 16 is coming to the front door Sat Mar 25 22:25:56 CDT 2017
+2017-03-25 22:25:56,070 24470 [Thread-6] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 16 is in line at the door.
+2017-03-25 22:25:58,070 26470 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 15 in 3 seconds.
+2017-03-25 22:25:58,072 26472 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:25:58,072 26472 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:25:58,073 26473 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 16
+2017-03-25 22:26:01,069 29469 [Thread-7] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 17 is coming to the front door Sat Mar 25 22:26:01 CDT 2017
+2017-03-25 22:26:01,069 29469 [Thread-7] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 17 is in line at the door.
+2017-03-25 22:26:01,074 29474 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 16 in 3 seconds.
+2017-03-25 22:26:01,074 29474 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:26:01,074 29474 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:26:01,074 29474 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 17
+2017-03-25 22:26:04,075 32475 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 17 in 3 seconds.
+2017-03-25 22:26:04,076 32476 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:26:04,076 32476 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:26:10,069 38469 [Thread-8] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 18 is coming to the front door Sat Mar 25 22:26:10 CDT 2017
+2017-03-25 22:26:10,070 38470 [Thread-8] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 18 is in line at the door.
+2017-03-25 22:26:10,070 38470 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:26:10,071 38471 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 18
+2017-03-25 22:26:13,071 41471 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 18 in 3 seconds.
+2017-03-25 22:26:13,072 41472 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:26:13,072 41472 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:26:14,070 42470 [Thread-9] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 19 is coming to the front door Sat Mar 25 22:26:14 CDT 2017
+2017-03-25 22:26:14,071 42471 [Thread-9] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 19 is in line at the door.
+2017-03-25 22:26:14,077 42477 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:26:14,077 42477 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 19
+2017-03-25 22:26:17,078 45478 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 19 in 3 seconds.
+2017-03-25 22:26:17,078 45478 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:26:17,078 45478 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:26:20,329 48729 [Thread-10] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 20 is coming to the front door Sat Mar 25 22:26:20 CDT 2017
+2017-03-25 22:26:20,329 48729 [Thread-10] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 20 is in line at the door.
+2017-03-25 22:26:20,329 48729 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:26:20,330 48730 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 20
+2017-03-25 22:26:23,330 51730 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 20 in 3 seconds.
+2017-03-25 22:26:23,331 51731 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:26:23,331 51731 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:26:26,072 54472 [Thread-11] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 21 is coming to the front door Sat Mar 25 22:26:26 CDT 2017
+2017-03-25 22:26:26,075 54475 [Thread-11] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 21 is in line at the door.
+2017-03-25 22:26:26,076 54476 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:26:26,077 54477 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 21
+2017-03-25 22:26:29,599 57999 [Thread-12] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 22 is coming to the front door Sat Mar 25 22:26:29 CDT 2017
+2017-03-25 22:26:29,605 58005 [Thread-12] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 22 is in line at the door.
+2017-03-25 22:26:30,604 59004 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 21 in 3 seconds.
+2017-03-25 22:26:30,605 59005 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:26:30,605 59005 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:26:30,605 59005 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 22
+2017-03-25 22:26:33,605 62005 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 22 in 3 seconds.
+2017-03-25 22:26:33,606 62006 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:26:33,606 62006 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:26:36,614 65014 [Thread-13] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 23 is coming to the front door Sat Mar 25 22:26:36 CDT 2017
+2017-03-25 22:26:36,615 65015 [Thread-13] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 23 is in line at the door.
+2017-03-25 22:26:36,615 65015 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:26:36,615 65015 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 23
+2017-03-25 22:26:39,616 68016 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 23 in 3 seconds.
+2017-03-25 22:26:39,616 68016 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:26:39,616 68016 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:26:41,615 70015 [Thread-14] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 24 is coming to the front door Sat Mar 25 22:26:41 CDT 2017
+2017-03-25 22:26:41,616 70016 [Thread-14] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 24 is in line at the door.
+2017-03-25 22:26:41,616 70016 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:26:41,617 70017 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 24
+2017-03-25 22:26:44,617 73017 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 24 in 3 seconds.
+2017-03-25 22:26:44,617 73017 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:26:44,618 73018 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:26:45,617 74017 [Thread-15] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 25 is coming to the front door Sat Mar 25 22:26:45 CDT 2017
+2017-03-25 22:26:45,621 74021 [Thread-15] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 25 is in line at the door.
+2017-03-25 22:26:45,622 74022 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:26:45,622 74022 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 25
+2017-03-25 22:26:45,622 74022 [Thread-16] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 26 is coming to the front door Sat Mar 25 22:26:45 CDT 2017
+2017-03-25 22:26:45,623 74023 [Thread-16] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 26 is in line at the door.
+2017-03-25 22:26:48,623 77023 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 25 in 3 seconds.
+2017-03-25 22:26:48,623 77023 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:26:48,623 77023 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:26:48,623 77023 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 26
+2017-03-25 22:26:51,624 80024 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley was done handing candy to: Trick-or-Treater: 26 in 3 seconds.
+2017-03-25 22:26:51,625 80025 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 22:26:51,625 80025 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
+2017-03-25 22:26:52,621 81021 [Thread-17] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 27 is coming to the front door Sat Mar 25 22:26:52 CDT 2017
+2017-03-25 22:26:52,623 81023 [Thread-17] INFO  edu.matc.Halloween.RileysDoor  - Trick-or-Treater : Trick-or-Treater: 27 is in line at the door.
+2017-03-25 22:26:52,623 81023 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Riley hears the doorbell.
+2017-03-25 22:26:52,624 81024 [Thread-0] INFO  edu.matc.Halloween.RileysDoor  - Handing out candy to  : Trick-or-Treater: 27
+2017-03-25 23:34:25,014 0    [main] INFO  edu.matc.Halloween.RileysDoor  - Riley waiting for lock.
+2017-03-25 23:34:25,030 16   [main] INFO  edu.matc.Halloween.RileysDoor  - Riley is watching TV, waiting for a trick-or-treater.
